@@ -1,3 +1,3 @@
-*.o
+#*.o
 *.dylib
-zbar/.libs
+#zbar/.libs
