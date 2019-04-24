@@ -35,7 +35,7 @@ The simplest way to compile this package is:
      messages telling which features it is checking for.
 
      on MACOS run this :
-     `CPPFLAGS="-I/opt/local/include" LDFLAGS="-L/opt/local/lib" ./configure MAGICK_CFLAGS="/usr/local/opt/imagemagick/include/"  MAGICK_LIBS="/usr/local/opt/imagemagick/lib" --disable-video --without-imagemagick --without-qt --without-python --without-gtk --with-libiconv-prefix=/opt/local --with-jpeg=no`
+     `CPPFLAGS="-I/opt/local/include" LDFLAGS="-L/opt/local/lib" ./configure --disable-video --without-imagemagick --without-qt --without-python --without-gtk --with-libiconv-prefix=/opt/local --with-jpeg=no`
 
   2. Type `make' to compile the package.
 

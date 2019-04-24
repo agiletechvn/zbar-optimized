@@ -16,7 +16,7 @@ License information can be found in 'COPYING'.
 
 # BUILDING
 
-See '[INSTALL](./INSTALL.md)' for generic configuration and build instructions.
+See 'INSTALL' for generic configuration and build instructions.
 
 The scanner/decoder library itself only requires a few standard
 library functions which should be avilable almost anywhere.
